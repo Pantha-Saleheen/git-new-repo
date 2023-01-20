@@ -1,0 +1,10 @@
+working directory -> stagging area -> local repo -> remote repo
+
+added line second time
+
+test-project -> git add file_Name -> git commit -> git push
+
+tracked 
+untracked
+
+changed after stagging
